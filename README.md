@@ -1,9 +1,12 @@
 ### Hey there 👋 I'm Nick Davies!
 
-I am a Full Stack Developer working on a range of different web applications. I specialise in backend PHP development, in particular the Laravel framework as well as a range of other technologies including Vue.js, Tailwind, Bootstrap and more.
+I am a Full Stack Developer, specialising in backend PHP development, in particular the Laravel framework as well as a range of other technologies including Vue.js, Tailwind, Bootstrap and more.
 
 - Backend: Laravel, SQL
 - Frontend: HTML, CSS, SASS/SCSS, Vue.js, Tailwind, Bootstrap
+- OS: Ubuntu, Mac OS X, Windows
+
+![Test Image 1](code.svg)
 
 <!--
 **nickdavies791/nickdavies791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
