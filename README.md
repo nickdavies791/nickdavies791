@@ -6,7 +6,7 @@ I am a Full Stack Developer, specialising in backend PHP development, in particu
 - Frontend: HTML, CSS, SASS/SCSS, Vue.js, Tailwind, Bootstrap
 - OS: Ubuntu, Mac OS X, Windows
 
-![Test Image 1](code.svg)
+![View my Repositories](https://github.com/nickdavies791/nickdavies791/blob/master/code.svg)
 
 <!--
 **nickdavies791/nickdavies791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
