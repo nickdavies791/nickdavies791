@@ -4,7 +4,7 @@ I am a Full Stack Developer, specialising in backend PHP development, in particu
 
 - Backend: Laravel, SQL
 - Frontend: HTML, CSS, SASS/SCSS, Vue.js, Tailwind, Bootstrap
-- OS: Pop!_OS, Mac OS X, Windows
+- OS: Pop!_OS, Mac OS, Windows
 
 <!--
 **nickdavies791/nickdavies791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
